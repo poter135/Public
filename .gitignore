@@ -1,4 +1,4 @@
-.exe
-.csv
-.xlsx
-.html
+*.exe
+*.csv
+*.xlsx
+*.html
